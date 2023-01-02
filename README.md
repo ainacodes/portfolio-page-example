@@ -3,6 +3,8 @@
 Build with **HTML**, **CSS/ SASS**, and **JavaScripts**
 This website was made by referring to the tutorials in the references. 
 From that I made some changes according to my needs. 
+<br>
+[Click here](https://aina-portfolio-test.netlify.app/) for the demo
 
 ![light theme](./assets/images/light_theme.png)
 
